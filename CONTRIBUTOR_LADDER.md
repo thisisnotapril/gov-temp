@@ -1,12 +1,3 @@
-# Contributor Ladder Template
-
-This is a light contributor ladder template for CNCF projects that requires editing before it is ready to use. Read the markdown comments, `<!-- COMMENT -->`, for additional guidance. The raw markdown uses `TODO` to identify areas that require customization.
-
-Particularly, this file provides you with a menu of options for your project.  Most projects have 3-4 defined contributor roles. We have outlined more roles below than you may need, so select what makes sense for the structure and size of your project. Other roles should be deleted, or combined into an adjacent role.
-
-
-<!-- template begins here -->
-
 * [Contributor Ladder](#contributor-ladder-template)
     * [Community Participant](#community-participant)
     * [Contributor](#contributor)
@@ -25,29 +16,7 @@ Hello! We are excited that you want to learn more about our project contributor 
 
 Each of the contributor roles below is organized into lists of three types of things. "Responsibilities" are things that a contributor is expected to do. "Requirements" are qualifications a person needs to meet to be in that role, and "Privileges" are things contributors on that level are entitled to.
 
-
-### Community Participant
-<!--This role spells out what's expected of general community participants.  This is the lowest
-level of participation in the project, and as such many projects don't bother to
-define it and leave this section out.-->
-<!--TODO: project leads to fill in exact details of this role for your project-->
-Description: A Community Participant engages with the project and its community, contributing their time, thoughts, etc. Community participants are usually users who have stopped being anonymous and started being active in project discussions.
-
-* Responsibilities:
-    * Must follow the [CNCF CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
-* How users can get involved with the community:
-    * Participating in community discussions
-    * Helping other users
-    * Submitting bug reports
-    * Commenting on issues
-    * Trying out new releases
-    * Attending community events
-    * [TODO: Other examples of non-contribution participation]
-
-
 ### Contributor
-<!-- This role describes people who have just started contributing, or who contribute occasionally but don't participate in project governance or have defined responsibilities.  Usually projects define either this level or Community Participant, but not both.  If you don't define this role, make sure to copy over its requirements to Organization Member -->
-<!--TODO: project leads to fill in exact details of this role for your project-->
 Description: A Contributor contributes directly to the project and adds value to it. Contributions need not be code. People at the Contributor level may be new contributors, or they may only contribute occasionally.
 
 * Responsibilities include:
@@ -64,7 +33,6 @@ Description: A Contributor contributes directly to the project and adds value to
     * Run or helps run events
     * Promote the project in public
     * Help run the project infrastructure
-    * [TODO: other small contributions]
 * Privileges:
     * Invitations to contributor events
     * Eligible to become an Organization Member
